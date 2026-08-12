@@ -6,8 +6,8 @@
 ---
 
 ## Faculty Information
-**Name:** [Your Name]  
-**Institution:** [Your Institution]  
+**Name:** Je'aime Powell
+**Institution:** Omnibond 
 **Department/Discipline:** [Your Department]  
 
 ### Brief Bio / CV
